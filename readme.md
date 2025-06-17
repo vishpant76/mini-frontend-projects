@@ -1,0 +1,1 @@
+- Some mini frontend projects built using basic HTML, CSS, and vanilla JS - no frameworks.
